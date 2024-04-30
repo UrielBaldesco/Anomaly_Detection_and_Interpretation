@@ -1,0 +1,6 @@
+Breast Cancer Dataset: https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original
+Yeast Dataset: https://archive.ics.uci.edu/dataset/110/yeast
+Ecoli Dataset: https://archive.ics.uci.edu/dataset/39/ecoli
+Thyroid Dataset: https://archive.ics.uci.edu/dataset/102/thyroid+disease
+Glass Dataset: https://archive.ics.uci.edu/dataset/42/glass+identification
+Verterbral Dataset: https://archive.ics.uci.edu/dataset/212/vertebral+column
